@@ -7,7 +7,7 @@
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     </head>
     <body>
-        <h1>Hello, world!</h1>
+        <h1>Hello, worlds!</h1>
         
         <link rel="stylesheet" href="css/plugins/imageselect/ImageSelect.css">
         <link rel="stylesheet" href="css/plugins/imageselect/chosen.css">
