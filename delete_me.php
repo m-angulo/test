@@ -1,4 +1,4 @@
 <?php
 
-echo 'delete me';
+echo 'delete mes';
 ?>
